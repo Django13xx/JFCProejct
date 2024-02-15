@@ -1,0 +1,19 @@
+id,name,type,description,level,link
+1,Unknow Normal Heart Beat 1,Heartbeat,abcdef...,Primary,005.wav
+2,Unknow Normal Heart Beat 2,Heartbeat,abcdef...,Advanced,006.wav
+3,Unknow Normal Heart Beat 3,Heartbeat,abcdef...,Intermidiate,007.wav
+4,Unknow Normal Heart Beat 4,Heartbeat,abcdef...,Primary,008.wav
+5,Unknow Normal Heart Beat 5,Heartbeat,abcdef...,Intermidiate,009.wav
+6,Unknow Normal Heart Beat 6,Heartbeat,abcdef...,Primary,010.wav
+7,Unknow Normal Heart Beat 7,Heartbeat,abcdef...,Primary,011.wav
+8,Unknow Abnormal Heart Beat 1,Heartbeat,abcdef...,Undefined,012.wav
+9,Unknow Abnormal Heart Beat 2,Heartbeat,abcdef...,Primary,013.wav
+10,Some Normal Lung Sound 1,Lungsound,abcdef...,Primary,014.wav
+11,Some Normal Lung Sound 2,Lungsound,abcdef...,Advanced,015.wav
+12,Some Abnormal Lung Sound 1,Lungsound,abcdef...,Primary,016.wav
+13,Some Abnormal Lung Sound 2,Lungsound,abcdef...,Intermidiate,017.wav
+14,Unknow Normal Heart Beat 8,Heartbeat,abcdef...,Primary,018.wav
+15,Lets meet Arnold ~,Heartbeat,Thats a normal heartbeat of a health dog,Primary,001.wav
+16,Hush!,Lungsound,Puppies may have considerable lung noise which may mimic disease.,Advanced,003.wav
+17,All good,Heartbeat,A little murmur during a period of abnormal heart beat,Intermediate,002.wav
+18,Who is breathing ...,Lungsound,Normal lung sounds are usually audible dorsal to the heart base,Primary,004.wav

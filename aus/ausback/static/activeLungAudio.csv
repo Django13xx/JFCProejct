@@ -1,0 +1,4 @@
+id,name,type,description,level,link,list_id
+10,Some Normal Lung Sound 1,Lungsound,abcdef...,primary,014.wav,1
+10,Some Normal Lung Sound 2,Lungsound,abcdef...,primary,015.wav,2
+12,Some Abnormal Lung Sound 1,Lungsound,abcdef...,primary,016.wav,3
