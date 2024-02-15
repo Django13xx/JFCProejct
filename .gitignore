@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Ignore all __pycache__ folders
+__pycache__/
+
+# Ignore all .log files
+*.log
+
+# Ignore db.sqlite3 in backend
+db.sqlite3
+
+# Ignore node_modules folder from node.js
+node_modules/
+
+# Ignore .env files for environment variables
+.env
+
+# .pyc  Python files
+*.pyc
