@@ -40,5 +40,10 @@ type nul > "%script_dir%..\aus\ausback\output_ausback.txt"
 type nul > "%script_dir%..\aus\ausfront\output_ausfront.txt"
 type nul > "%script_dir%..\Hardware\output_hardware.txt"
 
+
+REM Wait for 1 second before opening the specified URL
+timeout /t 1
+
+
 REM Open the specified URL in the default browser
 start http://localhost:5173/
